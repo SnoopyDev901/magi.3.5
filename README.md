@@ -47,13 +47,13 @@ Each subsystem was fine-tuned using following prompts:
 1. Clone the repo:
 
 ```
-git clone https://github.com/TomaszRewak/MAGI.git
+git clone https://github.com/SnoppyDev901/magi.3.5.git
 ```
 
 2. Navigate to the cloned directory:
 
 ```
-cd MAGI
+cd magi.3.5
 ```
 
 3. Create python virtual environment:
